@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">I'm a passionate Full Stack Developer who loves building web applications from the ground up. With experience in both front-end and back-end development, I enjoy creating intuitive user experiences while ensuring the systems behind the scenes are efficient and scalable.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewssteven&label=Profile%20views&color=0e75b6&style=flat" alt="andrewssteven" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewssteven" alt="andrewssteven" /></a> </p>
 
 - 🔭 I’m currently working on **Fullstack projects**
